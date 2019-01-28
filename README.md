@@ -48,7 +48,7 @@ http://localhost:3001/apiv1/id
 ```shell
 http://localhost:3001/apiv1/
 ```
-Available filters:
+### [Available filters]
 > **price**
 - ?price=-number : returns items with price below or equal to given number 
 - ?price=number- : returns items with price above or equal to given number
