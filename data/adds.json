@@ -1,15 +1,83 @@
 
-[{
-"nombre": "Bicicleta",
-"venta": true,
-"precio": 230.15,
-"foto": "bici.jpg",
-"tags": [ "lifestyle", "motor"]
+[
+{
+    "tags" : [ 
+        "lifestyle", 
+        "motor"
+    ],
+    "nombre" : "Bicicleta",
+    "venta" : true,
+    "precio" : 230.15,
+    "foto" : "bici.jpg",
+    "__v" : 0
 },
 {
-"nombre": "iPhone 3GS",
-"venta": false,
-"precio": 50.00,
-"foto": "iphone.png",
-"tags": [ "lifestyle", "mobile"]
+    "tags" : [ 
+        "lifestyle", 
+        "mobile"
+    ],
+    "nombre" : "iPhone 3GS",
+    "venta" : false,
+    "precio" : 50,
+    "foto" : "iphone.png",
+    "__v" : 0
+},
+{
+    "tags" : [ 
+        "lifestyle", 
+        "mobile"
+    ],
+    "nombre" : "Apple iPhone XR - Smartphone de 6.1\" (64 GB) negro",
+    "precio" : 799,
+    "venta" : true,
+    "foto" : "phone-xr-negro64gb.jpg",
+    "__v" : 0
+},
+{
+    "tags" : [ 
+        "lifestyle", 
+        "mobile"
+    ],
+    "nombre" : "Apple iPhone 7 Smartphone Libre Oro Rosa 128GB",
+    "precio" : 368,
+    "venta" : true,
+    "foto" : "iphone-7-libre-oro-rosa-128gb.jpg",
+    "__v" : 0
+},
+{
+    "tags" : [ 
+        "lifestyle", 
+        "worstations", 
+        "computers", 
+        "desktops"
+    ],
+    "nombre" : "MSI Vortex W25 8SM-082ES",
+    "precio" : 4099,
+    "venta" : true,
+    "foto" : "msi-vortex-w25-8sm.jpg",
+    "__v" : 0
+},
+{
+    "tags" : [ 
+        "lifestyle", 
+        "worstations", 
+        "computers", 
+        "desktops"
+    ],
+    "nombre" : "NITROPC - PC Workstation",
+    "precio" : 1000,
+    "venta" : false,
+    "foto" : "nitro-pc-workstation.jpg",
+    "__v" : 0
+},
+{
+    "tags" : [ 
+        "labtops", 
+        "computers"
+    ],
+    "nombre" : "HP 255 G6 - Ordenador portátil 15.6",
+    "precio" : 298.78,
+    "venta" : true,
+    "foto" : "hp-255-g6-portati.jpg",
+    "__v" : 0
 }]
