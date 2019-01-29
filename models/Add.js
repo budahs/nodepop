@@ -10,7 +10,6 @@ const addSchema = mongoose.Schema({
 },{ collection: 'adds' });
 
 addSchema.statics.list = (filter,sort,start,limit) => { 
-    console.log(sort);
     const query = Add.find(filter); 
     query.sort(sort); 
     query.skip(start);
